@@ -23,8 +23,9 @@
 <br>$\textsf{\color{white}{PC显示屏,设置:亮度/对比度/色温/色调/饱和度/画面比例/......}}$
 <br>$\textsf{\color{white}{PC Shower Setting:Bright/Contrast/Color Temperature/Hue/Saturation/Gamma/Aspect Ratio/......}}$
 <br>$\textsf{\color{white}{========================================}}$
+<br>$\textsf{\color{white}{【color looking feeling divide moral good/bad .】}}$
 <br>$\textsf{\color{white}{Normal good human/ghost can see the seven colorful and Opacity : CSS RGB/RGBA Text/Input/Result .}}$
-<br>$\textsf{\color{white}{CSS RGBA Communication : Can CSS RGBA Text/Input/Result , defeat the 黑业大杀业大 color-blindness killer?}}$
+<br>$\textsf{\color{white}{CSS RGBA Communication : Can CSS RGBA Text/Input/Result , exclude the 黑业大杀业大 color-blindness killer?}}$
 <br>$\textsf{\color{white}{CSS RGBA Communication Difference}}$
 <br>$\textsf{\color{white}{========================================}}$
 <br>$\textsf{\color{white}{【如:色彩视觉区分道德好坏】:}}$
@@ -50,7 +51,7 @@
 <br>$\textsf{\color{white}{【生物感觉区分道德好坏】【如:色彩视觉区分道德好坏】:}}$
 <br>$\textsf{\color{white}{自己怎么知道:别人是什么感觉?别的鬼又是什么感觉?视觉?听觉?味觉?嗅觉?触觉?第六感觉?？}}$
 <br>
-<br>$\textsf{\color{white}{【life feeling divide moral good/bad .}}$
+<br>$\textsf{\color{white}{【life feeling divide moral good/bad .】【color looking feeling divide moral good/bad .】}}$
 <br>$\textsf{\color{white}{how to know other person/ghost feeling ? can look what ? can hear what ? smell what ? touch what ? taste what ? the sixth sense what ?}}$
 <br>
 <br>$\textsf{\color{white}{眼耳口鼻,舌,手脚,......}}$
@@ -59,7 +60,7 @@
 <br>$\textsf{\color{white}{无鬼魂身体,放大/缩小区分的:}}$
 <br>$\textsf{\color{white}{无颜色区分的,这变成了废物大数据:计算机生物大数据,没有任何生命的,感觉记录.}}$
 <br>
-<br>$\textsf{\color{white}{视觉,弱视,近视,远视,看东西彩色有色无色黑白.}}$
+<br>$\textsf{\color{white}{视觉,弱视,近视,远视,看东西彩色有色无色黑白,如:远看黑白,近看一点彩色.}}$
 <br>$\textsf{\color{white}{视觉,弱视,近视,远视,看东西可以放大缩小,近视看不清,远视看不清,近视看得清,远视看得清.}}$
 <br>$\textsf{\color{white}{听觉,弱听,近听,远听,听东西可以放大缩小,近听听不清,远听听不清,近听听得清,远听听得清.}}$
 <br>$\textsf{\color{white}{嗅觉,弱嗅,近嗅,远嗅,嗅东西可以放大缩小,近嗅嗅不清,远嗅嗅不清,近嗅嗅得清,远嗅嗅得清.}}$

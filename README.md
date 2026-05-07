@@ -1,4 +1,7 @@
 <h3>$\textsf{\color{white}{========================================}}$
+<br>$\textsf{\color{white}{Call upper programmer hacker to change the Text color please .}}$
+<br>$\textsf{\color{white}{(Worldwide machine Text)(CSS RGBA , Foreground/Background Color + Opacity .)}}$
+<br>$\textsf{\color{white}{========================================}}$
 <br>$\textsf{\color{white}{任意大小的电子屏幕的：}}$
 <br>$\textsf{\color{white}{李洪志 红绿蓝 透明 文本输入框 文本段落 谷歌百度搜索框 交流 .}}$
 <br>$\textsf{\color{white}{真善忍 红绿蓝 透明 文本输入框 文本段落 谷歌百度搜索框 交流 .}}$
@@ -26,6 +29,7 @@
 <br>$\textsf{\color{white}{人心黑业/黑气/黑烟/冒火星/着火/下跪/佛手戳心/......}}$
 <br>
 <br>$\textsf{\color{white}{李洪志法力幻听反映：因为杀业大,所以:它们眼睛，分辨颜色有困难，看东西是黑白色盲的。}}$
+<br>$\textsf{\color{white}{好象是:远视/近视/,近看是有点色彩,远看是黑白.部分色盲(黑业大的人鬼).}}$
 <br>
 <br>$\textsf{\color{white}{那我们的电子屏幕的文本段落框、聊天输入框、信息段落显示框，}}$
 <br>

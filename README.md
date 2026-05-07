@@ -1,6 +1,7 @@
 <h3>$\textsf{\color{white}{========================================}}$
 <br>$\textsf{\color{white}{Call upper programmer hacker to change the Text color please .}}$
 <br>$\textsf{\color{white}{(Worldwide machine Text)(CSS RGBA , Foreground/Background Color + Opacity .)}}$
+<br>$\textsf{\color{white}{(Differ the human and ghost :)(CSS RGBA , FG==BG Opacity==0 .)}}$
 <br>$\textsf{\color{white}{========================================}}$
 <br>$\textsf{\color{white}{任意大小的电子屏幕的：}}$
 <br>$\textsf{\color{white}{李洪志 红绿蓝 透明 文本输入框 文本段落 谷歌百度搜索框 交流 .}}$

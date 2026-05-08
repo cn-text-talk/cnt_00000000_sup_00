@@ -1,4 +1,4 @@
-<h3>$\textsf{\color{rgba(255,255,255,0)}{========================================}}$
+<h3>$\textsf{\color{rgba(0,0,0,0)}{========================================}}$
 <br>$\textsf{\color{white}{Call upper computer to change the Text color please .}}$
 <br>$\textsf{\color{white}{(Worldwide machine Text)(CSS RGBA , Foreground/Background Color + Opacity .)}}$
 <br>$\textsf{\color{white}{(Differ the human and ghost :)(CSS RGBA , FG==BG Opacity==0 .}}$
